@@ -1,4 +1,4 @@
-## Oiii eu sou a Thayana, desenvolvedora front-end e estudante do curso de ADS na Fatec Zona Leste!!
+## Oiii eu sou a Thayana, desenvolvedora front-end e estudante do curso de ADS na Fatec!!
 <div align="center">
   <a href="https://github.com/thayana-araujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayana-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
