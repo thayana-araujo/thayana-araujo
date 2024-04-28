@@ -1,4 +1,4 @@
-## Oiii eu sou a Thayana, desenvolvedora front-end e estudante do curso Ciência da Computação!!
+## Oiii eu sou a Thayana, desenvolvedora front-end e estudante MBA Full Stack Developer!!
 <div align="center">
   <a href="https://github.com/thayana-araujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayana-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,5 +15,4 @@
 
   ##
  
-
 
